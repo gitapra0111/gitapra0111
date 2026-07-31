@@ -7,7 +7,7 @@
 
 ---
 
-#### 🛠️skills
+## 🛠️skills
 ##### </> Programming Languages
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -50,7 +50,7 @@
 </div>
 
 ---
-#### 📱 Social Media
+## 📱 Social Media
 <div data-importer="socials" align="left">
   <a href="https://www.instagram.com/gitapraasaa_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -61,7 +61,7 @@
 </div>
 
 ---
-#### 📊 Statistics 
+## 📊 Statistics 
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/gitapra0111/gitapra0111/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -69,7 +69,7 @@
 </div>
 
 ---
-#### 🧩 Arcade & Snake
+## 🧩 Arcade & Snake
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gitapra0111/gitapra0111/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
