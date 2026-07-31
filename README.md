@@ -61,12 +61,17 @@
 </div>
 
 ---
-## 📊 Statistics 
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/gitapra0111/gitapra0111/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/gitapra0111/gitapra0111/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
+## 📊 Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=gitapra0111&show_icons=true&theme=dracula"
+    height="170"/>
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gitapra0111&layout=compact&theme=dracula"
+    height="170"/>
+</p>
 
 ---
 ## 🧩 Arcade & Snake
@@ -86,13 +91,5 @@
 
 ---
 
-## 📊 Statistics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=gitapra0111&show_icons=true&theme=dracula"
-    height="170"/>
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gitapra0111&layout=compact&theme=dracula"
-    height="170"/>
-</p>
+
