@@ -77,20 +77,22 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gitapra0111/gitapra0111/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-## 📊 Statistics
-
-<div align="center">
-
-<img height="150"
-src="https://github-readme-stats.vercel.app/api?username=gitapra0111&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-<img height="150"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitapra0111&layout=compact&theme=dracula"/>
-
-</div>
-
 ###
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/gitapra0111/gitapra0111/snake-output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+---
+
+## 📊 Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=gitapra0111&show_icons=true&theme=dracula"
+    height="170"/>
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gitapra0111&layout=compact&theme=dracula"
+    height="170"/>
+</p>
